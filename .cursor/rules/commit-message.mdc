@@ -1,3 +1,8 @@
+---
+description: 
+alwaysApply: false
+---
+
 请生成一个符合规范的中文 Git Commit Message，要求：
 
 1. 遵循以下模板：
